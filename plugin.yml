@@ -1,0 +1,5 @@
+name: dirCopyOnStart
+main: org.abyssmc.dirCopyOnStart.mainCopyClass
+version: 1.0
+load: STARTUP
+author: DefineOutside
